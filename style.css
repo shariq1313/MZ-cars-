@@ -117,7 +117,7 @@ list-style:none;
   margin-bottom: 20px;
 }
 .welcome{
-  background-image: url(../images/banner.jpg);
+  background-image: url("banner.jpg");
   text-align: center;
   text-decoration:none;
   display:inline-block;
